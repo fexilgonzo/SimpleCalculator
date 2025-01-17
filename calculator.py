@@ -25,7 +25,7 @@ def main():
 
         choice = input("Enter your choice (1/2/3/4/5): ")
 
-        if choice == 5: 
+        if choice == "5": 
             print("Thank you for using the Simple Calculator. Goodbye!")
             break
 
